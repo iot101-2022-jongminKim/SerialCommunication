@@ -1,0 +1,6 @@
+.pio/build/project.checksum
+.pio/build/esp12e/idedata.json
+src/main.cpp
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/extensions.json
