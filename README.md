@@ -1,7 +1,7 @@
 # SerialCommunication
 
 ## Picture(How to Work)
-![How to work](https://user-images.githubusercontent.com/90883981/192280247-4cbc1a83-3526-45ff-a0e0-a1d8b3e90941.png)
+![How to work](https://user-images.githubusercontent.com/90883981/192280617-f4375b66-ecfb-47b3-9879-014ecdf646d3.png)
 
 
 ## Video(How to Work)
